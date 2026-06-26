@@ -36,3 +36,5 @@ cd resumeai-intelligent-platform
 pip install -r requirements.txt
 streamlit run app.py# resumeai-intelligent-platform
 AI-Powered Resume Analyzer, ATS Score, Job Matcher &amp; Career Chatbot
+docker build -t resumeai .
+docker run -p 8501:8501 resumeai
