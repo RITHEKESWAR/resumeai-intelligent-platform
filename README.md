@@ -25,8 +25,6 @@
 - **Deployment**: Docker, GitHub Actions, AWS / Render
 - **Others**: PyPDF2, pandas, ReportLab (for PDF export)
 
-### 📸 Screenshots
-*(Add screenshots/GIFs after running the app — they make it shine!)*
 
 ### 🚀 Quick Start
 
